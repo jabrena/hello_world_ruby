@@ -1,6 +1,7 @@
 app = "hello-world-ruby"
 
 [build]
+  dockerfile = "Dockerfile"
 
 [deploy]
   release_command = "bundle install"
