@@ -11,7 +11,7 @@ docker run -p 8080:8080 hello_world_ruby
 curl http://localhost:8080
 ```
 
-## References
+## References
 
 - https://hub.docker.com/_/ruby
 - https://rubyonrails.org/
