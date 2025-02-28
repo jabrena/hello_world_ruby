@@ -11,6 +11,10 @@ docker run -p 8080:8080 hello_world_ruby
 curl http://localhost:8080
 ```
 
+## Course
+
+- [Course about Ruby on rails](./course.md)
+
 ## References
 
 - https://hub.docker.com/_/ruby
